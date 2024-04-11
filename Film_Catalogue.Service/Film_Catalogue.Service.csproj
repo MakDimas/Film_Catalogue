@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Film_Catalogue.DAL\Film_Catalogue.DAL.csproj" />
+    <ProjectReference Include="..\Film_Catalogue.Domain\Film_Catalogue.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

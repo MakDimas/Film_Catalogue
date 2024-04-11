@@ -1,0 +1,17 @@
+C:\Users\Dima1\OneDrive\Документы\Сохранённые коды\Film_Catalogue.Service\bin\Debug\net6.0\Film_Catalogue.Service.deps.json
+C:\Users\Dima1\OneDrive\Документы\Сохранённые коды\Film_Catalogue.Service\bin\Debug\net6.0\Film_Catalogue.Service.dll
+C:\Users\Dima1\OneDrive\Документы\Сохранённые коды\Film_Catalogue.Service\bin\Debug\net6.0\Film_Catalogue.Service.pdb
+C:\Users\Dima1\OneDrive\Документы\Сохранённые коды\Film_Catalogue.Service\bin\Debug\net6.0\Film_Catalogue.DAL.dll
+C:\Users\Dima1\OneDrive\Документы\Сохранённые коды\Film_Catalogue.Service\bin\Debug\net6.0\Film_Catalogue.Domain.dll
+C:\Users\Dima1\OneDrive\Документы\Сохранённые коды\Film_Catalogue.Service\bin\Debug\net6.0\Film_Catalogue.DAL.pdb
+C:\Users\Dima1\OneDrive\Документы\Сохранённые коды\Film_Catalogue.Service\bin\Debug\net6.0\Film_Catalogue.Domain.pdb
+C:\Users\Dima1\OneDrive\Документы\Сохранённые коды\Film_Catalogue.Service\obj\Debug\net6.0\Film_Catalogue.Service.csproj.AssemblyReference.cache
+C:\Users\Dima1\OneDrive\Документы\Сохранённые коды\Film_Catalogue.Service\obj\Debug\net6.0\Film_Catalogue.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima1\OneDrive\Документы\Сохранённые коды\Film_Catalogue.Service\obj\Debug\net6.0\Film_Catalogue.Service.AssemblyInfoInputs.cache
+C:\Users\Dima1\OneDrive\Документы\Сохранённые коды\Film_Catalogue.Service\obj\Debug\net6.0\Film_Catalogue.Service.AssemblyInfo.cs
+C:\Users\Dima1\OneDrive\Документы\Сохранённые коды\Film_Catalogue.Service\obj\Debug\net6.0\Film_Catalogue.Service.csproj.CoreCompileInputs.cache
+C:\Users\Dima1\OneDrive\Документы\Сохранённые коды\Film_Catalogue.Service\obj\Debug\net6.0\Film_Cat.764E76CC.Up2Date
+C:\Users\Dima1\OneDrive\Документы\Сохранённые коды\Film_Catalogue.Service\obj\Debug\net6.0\Film_Catalogue.Service.dll
+C:\Users\Dima1\OneDrive\Документы\Сохранённые коды\Film_Catalogue.Service\obj\Debug\net6.0\refint\Film_Catalogue.Service.dll
+C:\Users\Dima1\OneDrive\Документы\Сохранённые коды\Film_Catalogue.Service\obj\Debug\net6.0\Film_Catalogue.Service.pdb
+C:\Users\Dima1\OneDrive\Документы\Сохранённые коды\Film_Catalogue.Service\obj\Debug\net6.0\ref\Film_Catalogue.Service.dll
